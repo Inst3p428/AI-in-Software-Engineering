@@ -12,3 +12,12 @@ Without labels, unsupervised learning can identify anomalies, or unexpected patt
 Algorithms for personalization may ignore minorities and give preference to dominant user groups.
 AI can exclude users or perpetuate prejudices if bias mitigation is not implemented.
 By identifying and lessening these prejudices, tools such as IBM AI Fairness 360 enhance inclusivity.
+
+#Case Study Analysis
+#How does AIOps improve software deployment efficiency? Provide two examples.
+Efficiency Improvements:
+Automatically detects errors by monitoring logs and analytics.
+Uses historical trends to forecast deployment hazards.
+For instance:
+When an increase in errors is seen after deployment, a rollback is initiated.
+Deployments are intelligently scheduled during times of low traffic.
